@@ -4,4 +4,10 @@
 
 guizi99.github.io/blog
 
-使用方法 `git clone h`
+克隆项目 `git clone https://github.com/GuiZi99/blog.git`
+
+配置环境 `npm i docsify-cli -g`
+
+本地预览 `docsify serve docs`
+
+官方教程 `https://docsify.js.org/#/zh-cn/`
